@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "id": "1",
+      "name": "Endrooo TV",
+      "packageName": "com.endrooo.tv",
+      "versionCode": 10,
+      "versionName": "1.0.1",
+      "iconUrl": "https://dl.dropboxusercontent.com/s/contoh1/icon-endrooo.png",
+      "apkUrl": "https://dl.dropboxusercontent.com/s/contoh2/endroootv.apk",
+      "description": "Aplikasi streaming M3U IPTV."
+    },
+    {
+      "id": "2",
+      "name": "Smart YouTube TV",
+      "packageName": "com.google.android.youtube.tv",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "iconUrl": "https://dl.dropboxusercontent.com/s/contoh3/icon-youtube.png",
+      "apkUrl": "https://dl.dropboxusercontent.com/s/contoh4/youtube.apk",
+      "description": "YouTube tanpa iklan untuk TV."
+    }
+  ]
+}
