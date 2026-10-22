@@ -92,7 +92,7 @@
     },
     {
       "id": "10",
-      "name": "OTT Navigator 1.7.5",
+      "name": "OTT Navigator",
       "packageName": "studio.scillarium.ottnavigator",
       "versionCode": 1,
       "versionName": "1.7.5",
@@ -109,6 +109,46 @@
       "iconUrl": "https://raw.githubusercontent.com/mahendrasandy/endroooappstore/refs/heads/main/icons/gvision_logo.png",
       "apkUrl": "https://github.com/mahendrasandy/endroooappstore/releases/download/v1.0_apps/GvisionTV_V3_build03_Fix.Gambar.lebih.Tajam.SFILE.MOBI.apk",
       "description": "Aplikasi streaming M3U IPTV."
+    },
+    {
+      "id": "12",
+      "name": "Google TV",
+      "packageName": "com.google.tv",
+      "versionCode": 2,
+      "versionName": "2.1",
+      "iconUrl": "https://raw.githubusercontent.com/mahendrasandy/endroooappstore/refs/heads/main/icons/gtv_logo.png",
+      "apkUrl": "https://github.com/mahendrasandy/endroooappstore/releases/download/v1.0_apps/GoogleTV.v2.1.apk",
+      "description": "Aplikasi streaming M3U IPTV."
+    },
+    {
+      "id": "13",
+      "name": "Tivimate Premium",
+      "packageName": "ar.tvplayer.tv",
+      "versionCode": 2,
+      "versionName": "2.1.5",
+      "iconUrl": "https://raw.githubusercontent.com/mahendrasandy/endroooappstore/refs/heads/main/icons/tvmate_logo.png",
+      "apkUrl": "https://github.com/mahendrasandy/endroooappstore/releases/download/v1.0_apps/TiviMate-2.1.5_Premium.apk",
+      "description": "Aplikasi streaming M3U IPTV."
+    },
+    {
+      "id": "14",
+      "name": "RBTV+++",
+      "packageName": "com.rblive.app",
+      "versionCode": 3,
+      "versionName": "3.0.3",
+      "iconUrl": "https://raw.githubusercontent.com/mahendrasandy/endroooappstore/refs/heads/main/icons/rbtv_logo.png",
+      "apkUrl": "https://github.com/mahendrasandy/endroooappstore/releases/download/v1.0_apps/RBTV+.3.0.319.apk",
+      "description": "Aplikasi streaming live event sport terlengkap."
+    },
+    {
+      "id": "15",
+      "name": "File Manager Premium",
+      "packageName": "com.alphainventor.filemanager",
+      "versionCode": 2,
+      "versionName": "2.6.9",
+      "iconUrl": "https://raw.githubusercontent.com/mahendrasandy/endroooappstore/refs/heads/main/icons/file_logo.png",
+      "apkUrl": "https://github.com/mahendrasandy/endroooappstore/releases/download/v1.0_apps/File_Manager_Premium_v2.6.9_Mod.apk",
+      "description": "Aplikasi penjelajah file premium."
     }
   ]
 }
